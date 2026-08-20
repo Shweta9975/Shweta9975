@@ -11,6 +11,3 @@
 - ⚡ Fun fact: **Youtube has taught me more than my College ever did.**
 
 <br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shweta9975&show_icons=true&locale=en&theme=tokyonight" alt="Shweta9975" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shweta9975&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Shweta9975" /></p>
